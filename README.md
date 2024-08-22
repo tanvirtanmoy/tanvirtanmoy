@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirtanmoy" alt="tanvirtanmoy" /></a> </p>
 
 <div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/0/1616667695311?e=1723680000&v=beta&t=ZQSuHYLDoPPwtT0JROSME1zakb_QDbcfPN-OrO9MED8" alt="Coding" img align="right" height ="300" width="500">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GpqsEXDtCFv9ARY8wLFxUw.gif" alt="Coding" img align="right" height ="300" width="500">
 </div>
 
 - 💬 Ask me about **SQL, Python, Power BI, Tableau**
